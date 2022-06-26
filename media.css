@@ -226,6 +226,7 @@ nav ul li {
 nav ul li a {
   display: table-cell;
   vertical-align: middle;
+  line-height: 1;
   text-align: center;
   text-decoration: none;
   font-size: 2.5em;
